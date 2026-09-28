@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Color principal de marca -->
+    <color name="primary">#0F766E</color>
+    <color name="primary_dark">#0B564F</color>
+    <color name="primary_light">#CCFBF1</color>
+
+    <!-- Estados -->
+    <color name="ingreso">#2E7D32</color>
+    <color name="ingreso_fondo">#E8F5E9</color>
+    <color name="gasto">#C62828</color>
+    <color name="gasto_fondo">#FFEBEE</color>
+
+    <!-- Neutros -->
+    <color name="fondo">#F7F7F8</color>
+    <color name="superficie">#FFFFFF</color>
+    <color name="texto_principal">#1C1B1F</color>
+    <color name="texto_secundario">#6B7280</color>
+    <color name="borde">#E5E7EB</color>
+
+</resources>
